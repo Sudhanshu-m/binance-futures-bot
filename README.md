@@ -55,7 +55,7 @@ pip install python-binance python-dotenv
 
 ```
 binance-futures-bot/
-├── .env                  # API credentials (not uploaded)
+├── .env                  # API credentials
 ├── bot.log               # Order logs
 ├── report.pdf            # Final project documentation
 ├── README.md             # This file
